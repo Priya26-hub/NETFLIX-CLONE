@@ -56,8 +56,8 @@ Priya Bhardwaj ❤️‍🔥
 Learning, building, and turning ideas into interfaces — one project at a time.
 
 ---
-Live Demo For you all-
-https://vercel.com/priya-cb97/netflix-clone
+
+🔴 **Live Demo:** https://netflix-clone-rho-olive-47.vercel.app/
 
 🎬 One project closer to becoming a better developer. 🍿
 
